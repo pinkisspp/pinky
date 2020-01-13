@@ -1,7 +1,7 @@
 body {
   margin-top: 0px;
   margin-bottom: opx;
-  widows: auto;
+  width: auto;
 }
 
 
@@ -64,7 +64,7 @@ h1 {
 
 /* -------------------------------------footer----------------------------- */
 .footer {
-  background-color: pink;
+  background-color: red;
   height: auto;
   font-size: 15px;
   text-align: center;

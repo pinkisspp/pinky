@@ -118,3 +118,483 @@ font-size: 40px;
 
 
 
+body {
+  margin-top: 0px;
+  margin-bottom: opx;
+}
+
+
+/* ----------------------------------header----------------------------------- */
+
+.header {
+  align-items: center;
+  background-color: aquamarine;
+  height: 250px;
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.icon {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.pinkyicon {
+  border-radius: 50%;
+  border-width: 4px;
+  border-style: solid;
+  border-color: #ffffff;
+}
+
+.pinkyicon:hover {
+  width:220px;
+  height:220px;
+}
+
+.info span:hover {
+  color: red;
+  font-size: 80px;
+}
+
+.info {
+  float: right;
+  font-size: 50px;
+  padding-top: 70px;
+  padding-left: 30px;
+}
+
+/* .info img:hover {
+width: 60px;
+height: 60px;
+} */
+
+h1 {
+  font-size: 60px;
+  margin: 0px;
+}
+
+/* -------------------------------------main-------------------------------- */
+
+.sns {
+  background-color: #303030;
+  height: 80px;
+  align-items: center;
+  line-height: 100px;
+  text-align: center;
+}
+
+.sns img {
+  margin-left: 30px;
+}
+
+.sns img:hover {
+  width: 60px;
+  height: 60px;
+  }
+
+/* -------------------------------------main-------------------------------- */
+.main {
+  height: 450px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #9fe1ff;
+  text-align: center;
+}
+
+.blogs {
+  align-items: center;
+}
+
+.blogs a:hover {
+background-color: skyblue;
+font-size: 40px;
+}
+
+.blogs h1:hover{
+  font-size: 40px;
+}
+
+.main h1 {
+  font-size: 25px;
+  padding-top: 60px;
+}
+
+.smallp {
+  border-radius: 20%;
+}
+
+/* -------------------------------------footer----------------------------- */
+.footer {
+  background-color: pink;
+  height: auto;
+  font-size: 15px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+
+
+body {
+  margin-top: 0px;
+  margin-bottom: opx;
+}
+
+
+/* ----------------------------------header----------------------------------- */
+
+.header {
+  align-items: center;
+  background-color: aquamarine;
+  height: 250px;
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.icon {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.pinkyicon {
+  border-radius: 50%;
+  border-width: 4px;
+  border-style: solid;
+  border-color: #ffffff;
+}
+
+.pinkyicon:hover {
+  width:220px;
+  height:220px;
+}
+
+.info span:hover {
+  color: red;
+  font-size: 80px;
+}
+
+.info {
+  float: right;
+  font-size: 50px;
+  padding-top: 70px;
+  padding-left: 30px;
+}
+
+/* .info img:hover {
+width: 60px;
+height: 60px;
+} */
+
+h1 {
+  font-size: 60px;
+  margin: 0px;
+}
+
+/* -------------------------------------main-------------------------------- */
+
+.sns {
+  background-color: #303030;
+  height: 80px;
+  align-items: center;
+  line-height: 100px;
+  text-align: center;
+}
+
+.sns img {
+  margin-left: 30px;
+}
+
+.sns img:hover {
+  width: 60px;
+  height: 60px;
+  }
+
+/* -------------------------------------main-------------------------------- */
+.main {
+  height: 450px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #9fe1ff;
+  text-align: center;
+}
+
+.blogs {
+  align-items: center;
+}
+
+.blogs a:hover {
+background-color: skyblue;
+font-size: 40px;
+}
+
+.blogs h1:hover{
+  font-size: 40px;
+}
+
+.main h1 {
+  font-size: 25px;
+  padding-top: 60px;
+}
+
+.smallp {
+  border-radius: 20%;
+}
+
+/* -------------------------------------footer----------------------------- */
+.footer {
+  background-color: pink;
+  height: auto;
+  font-size: 15px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+
+
+body {
+  margin-top: 0px;
+  margin-bottom: opx;
+}
+
+
+/* ----------------------------------header----------------------------------- */
+
+.header {
+  align-items: center;
+  background-color: aquamarine;
+  height: 250px;
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.icon {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.pinkyicon {
+  border-radius: 50%;
+  border-width: 4px;
+  border-style: solid;
+  border-color: #ffffff;
+}
+
+.pinkyicon:hover {
+  width:220px;
+  height:220px;
+}
+
+.info span:hover {
+  color: red;
+  font-size: 80px;
+}
+
+.info {
+  float: right;
+  font-size: 50px;
+  padding-top: 70px;
+  padding-left: 30px;
+}
+
+/* .info img:hover {
+width: 60px;
+height: 60px;
+} */
+
+h1 {
+  font-size: 60px;
+  margin: 0px;
+}
+
+/* -------------------------------------main-------------------------------- */
+
+.sns {
+  background-color: #303030;
+  height: 80px;
+  align-items: center;
+  line-height: 100px;
+  text-align: center;
+}
+
+.sns img {
+  margin-left: 30px;
+}
+
+.sns img:hover {
+  width: 60px;
+  height: 60px;
+  }
+
+/* -------------------------------------main-------------------------------- */
+.main {
+  height: 450px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #9fe1ff;
+  text-align: center;
+}
+
+.blogs {
+  align-items: center;
+}
+
+.blogs a:hover {
+background-color: skyblue;
+font-size: 40px;
+}
+
+.blogs h1:hover{
+  font-size: 40px;
+}
+
+.main h1 {
+  font-size: 25px;
+  padding-top: 60px;
+}
+
+.smallp {
+  border-radius: 20%;
+}
+
+/* -------------------------------------footer----------------------------- */
+.footer {
+  background-color: pink;
+  height: auto;
+  font-size: 15px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+
+
+body {
+  margin-top: 0px;
+  margin-bottom: opx;
+}
+
+
+/* ----------------------------------header----------------------------------- */
+
+.header {
+  align-items: center;
+  background-color: aquamarine;
+  height: 250px;
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.icon {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.pinkyicon {
+  border-radius: 50%;
+  border-width: 4px;
+  border-style: solid;
+  border-color: #ffffff;
+}
+
+.pinkyicon:hover {
+  width:220px;
+  height:220px;
+}
+
+.info span:hover {
+  color: red;
+  font-size: 80px;
+}
+
+.info {
+  float: right;
+  font-size: 50px;
+  padding-top: 70px;
+  padding-left: 30px;
+}
+
+/* .info img:hover {
+width: 60px;
+height: 60px;
+} */
+
+h1 {
+  font-size: 60px;
+  margin: 0px;
+}
+
+/* -------------------------------------main-------------------------------- */
+
+.sns {
+  background-color: #303030;
+  height: 80px;
+  align-items: center;
+  line-height: 100px;
+  text-align: center;
+}
+
+.sns img {
+  margin-left: 30px;
+}
+
+.sns img:hover {
+  width: 60px;
+  height: 60px;
+  }
+
+/* -------------------------------------main-------------------------------- */
+.main {
+  height: 450px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #9fe1ff;
+  text-align: center;
+}
+
+.blogs {
+  align-items: center;
+}
+
+.blogs a:hover {
+background-color: skyblue;
+font-size: 40px;
+}
+
+.blogs h1:hover{
+  font-size: 40px;
+}
+
+.main h1 {
+  font-size: 25px;
+  padding-top: 60px;
+}
+
+.smallp {
+  border-radius: 20%;
+}
+
+/* -------------------------------------footer----------------------------- */
+.footer {
+  background-color: pink;
+  height: auto;
+  font-size: 15px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+
+

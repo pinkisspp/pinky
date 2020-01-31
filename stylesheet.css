@@ -1,10 +1,25 @@
 body {
   margin-top: 0px;
-  margin-bottom: opx;
+  margin-bottom: 0px;
 }
 
 
 /* --------------------------header----------------------------- */
+/* @media (max-width: 670px) {
+  .header {
+    background-color: rgb(214, 127, 255);
+  }
+  .pinkyicon {
+    border-color: black;
+  }
+  .pinkyicon:hover {
+      width:220px;
+      height:220px;
+  }
+ } */
+
+
+
 
 .header {
   align-items: center;
@@ -16,8 +31,7 @@ body {
 }
 
 .icon {
-  margin-left: auto;
-  margin-right: auto;
+margin: 0px auto;
 }
 
 .pinkyicon {
@@ -26,10 +40,11 @@ body {
   border-style: solid;
   border-color: #ffffff;
 }
+
 .pinkyicon:hover {
     width:220px;
     height:220px;
-  }
+}
 
 
 
@@ -70,6 +85,7 @@ h1 {
   }
 
 /* ---------------------------main---------------------------- */
+
 .main {
   height: 500px;
   margin-left: auto;
@@ -101,10 +117,37 @@ font-size: 35px;
   box-shadow: none;
 }
 
-.main h1 {
+.blogs h1 {
   font-size: 32px;
   padding-top: 60px;
   padding-bottom: 5px;
+}
+
+.plus {
+  color: rgb(95, 95, 95);
+  font-size: 5px;
+  background-color: rgb(131, 191, 231);
+  border-radius: 20%;
+}
+
+.answer {
+  font-size: 12px;
+  padding-bottom: 5px;
+  background-color: rgb(157, 181, 252);
+  display: none;
+}
+
+.answer p {
+  font-size: 20px;
+}
+
+.accordion {
+  cursor: pointer;
+}
+
+.accordion:hover {
+  font-size: 45px;
+  background-color: rgb(166, 201, 255);
 }
 
 .smallp {

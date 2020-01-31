@@ -5,21 +5,6 @@ body {
 
 
 /* --------------------------header----------------------------- */
-/* @media (max-width: 670px) {
-  .header {
-    background-color: rgb(214, 127, 255);
-  }
-  .pinkyicon {
-    border-color: black;
-  }
-  .pinkyicon:hover {
-      width:220px;
-      height:220px;
-  }
- } */
-
-
-
 
 .header {
   align-items: center;

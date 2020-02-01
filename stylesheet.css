@@ -92,11 +92,9 @@ h1 {
   margin-right: auto;
   background-color: #9fe1ff;
   text-align: center;
-}
-
-.space {
-  background-color: #9fe1ff;
-  height: 40px;
+  background-image: url(Singaporewallpaper.jpeg);
+  background-size: cover;
+  opacity: 0.8;
 }
 
 .blogs {
@@ -104,11 +102,11 @@ h1 {
 }
 
 .blogs a {
-  color: blue;
-  background-color: rgb(124, 192, 255);
+  color: rgb(218, 184, 184);
+  background-color: rgb(68, 9, 112);
   border-radius: 10px;
   padding: 8px 24px;
-  box-shadow: 4px 7px rgb(70, 70, 70);
+  box-shadow: 4px 7px rgb(0, 0, 0);
 }
 
 .blogs a:hover {
@@ -126,19 +124,25 @@ font-size: 35px;
   font-size: 32px;
   padding-top: 60px;
   padding-bottom: 5px;
+  color: #f73636;
+  font-family: monospace;
+  cursor: zoom-in;
 }
 
 .plus {
   color: rgb(95, 95, 95);
   font-size: 5px;
-  background-color: rgb(131, 191, 231);
+  background-color: rgb(219, 219, 219);
   border-radius: 20%;
+  cursor: pointer;
 }
 
 .answer {
   font-size: 12px;
-  background-color: rgb(157, 181, 252);
+  background-color: rgba(185, 155, 255, 0.445);
+  font-weight: bold;
   display: none;
+  cursor: zoom-out;
 }
 
 .answer p {
@@ -146,12 +150,11 @@ font-size: 35px;
 }
 
 .accordion {
-  cursor: pointer;
 }
 
 .accordion:hover {
-  font-size: 45px;
-  background-color: rgb(166, 201, 255);
+  /* font-size: 45px; */
+  /* background-color: rgb(185, 166, 255); */
 }
 
 .smallp {
@@ -159,7 +162,8 @@ font-size: 35px;
 }
 
 .eBook {
-
+margin-bottom: 60px;
+display: inline-block;
 }
 
 /* -------------------------------footer------------------------ */

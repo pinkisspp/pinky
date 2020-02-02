@@ -223,18 +223,18 @@ display: inline-block;
 .pinkyicon {
  /* width: 200px; */
  /* height: 200px; */
- width: 100px;
- height: 100px;
+ width: 90px;
+ height: 90px;
  margin: 10px;
  border-radius: 50%;
- border: 2px solid white;
+ border: 2px solid rgb(255, 255, 255);
 }
 
 .pinkyicon:hover {
   /* width:220px; */
   /* height:220px; */
-  width:120px;
-  height:120px;
+  width:100px;
+  height:100px;
 }
 
 .info span:hover {
@@ -246,23 +246,23 @@ display: inline-block;
 .info {
   float: right;
   padding-top: 40px;
-  padding-left: 30px;
+  padding-left: 0px;
   margin-bottom: 0px;
 }
 
 h1 {
   /* font-size: 60px; */
-  font-size: 30px;
+  font-size: 25px;
   margin: 0px;
 }
 
 .why p {
   color: #4b4b4b;
-  font-size: 15px;
+  font-size: 13px;
   font-weight: bold;
   margin: 0px;
   background-color: rgb(159, 192, 253);
-  width: 200px;
+  width: 160px;
   border-radius: 10px;
   padding: 2px 4px;
   box-shadow: 3px 5px rgb(99, 98, 98);
@@ -277,16 +277,18 @@ h1 {
 }
 
 .whyAnswer {
+  float: left;
+  width: 200px;
   color: #333333;
   margin: 10px;
   padding: 10px;
   border-radius: 10px;
   display: none;
   /* font-size: 20px; */
-  font-size: 17px;
-  text-align: center;
+  font-size: 12px;
+  text-align: left;
   background-color: rgba(185, 155, 255, 0.445);
-  border: 4px solid rgb(65, 65, 65);
+  border: 2px solid rgb(65, 65, 65);
   font-weight: bold;
   cursor: zoom-out;
 } 
@@ -346,11 +348,11 @@ h1 {
   }
 
   .travel {
-    font-size: 13px;
+    font-size: 11px;
   }
   
   .blogs a:hover {
-    font-size: 20px;
+    font-size: 5px;
   }
   
   .blogs a:active {

@@ -73,6 +73,13 @@ h1 {
   cursor: zoom-in;
 }
 
+.why p:active {
+  position: relative;
+  top: 3px;
+  left: 5px;
+  box-shadow: none;
+}
+
 .whyAnswer {
   color: #333333;
   margin: 10px;
@@ -86,13 +93,6 @@ h1 {
   font-weight: bold;
   cursor: zoom-out;
   } 
-
-.why:active {
-  position: relative;
-  top: 3px;
-  left: 6px;
-  box-shadow: none;
-}
 
 /* ---------------------------sns---------------------------- */
 

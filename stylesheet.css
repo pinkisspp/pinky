@@ -4,19 +4,6 @@ body {
 
 
 /* --------------------------header----------------------------- */
-/* @media (max-width: 670px) {
-  .header {
-    background-color: rgb(214, 127, 255);
-  }
-  .pinkyicon {
-    border-color: black;
-  }
-  .pinkyicon:hover {
-      width:220px;
-      height:220px;
-  }
- } */
-
  .header {
    background-color: aquamarine;
    height: auto;
@@ -30,6 +17,8 @@ body {
 }
 
 .pinkyicon {
+  width: 200px;
+  height: 200px;
   margin: 10px;
   border-radius: 50%;
   border-width: 4px;
@@ -49,7 +38,6 @@ body {
 
 .info {
   float: right;
-  font-size: 50px;
   padding-top: 60px;
   padding-left: 30px;
   margin-bottom: 0px;
@@ -106,6 +94,8 @@ h1 {
 
 .sns img {
   margin-left: 30px;
+  width: 30px;
+  height: 30px;
 }
 
 .sns img:hover {
@@ -116,7 +106,6 @@ h1 {
 /* ---------------------------main---------------------------- */
 
 .main {
-  /* height: 500px; */
   height: auto;
   margin-left: auto;
   margin-right: auto;
@@ -169,6 +158,8 @@ font-size: 35px;
 
 .answer {
   font-size: 20px;
+  text-align: center;
+  padding: 0px 20px;
   background-color: rgba(185, 155, 255, 0.445);
   font-weight: bold;
   display: none;
